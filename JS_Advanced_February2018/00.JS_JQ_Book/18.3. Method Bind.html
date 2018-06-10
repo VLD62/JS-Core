@@ -1,0 +1,18 @@
+<html>
+<head>
+    <title>Example 18.3</title>
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        $(function () {
+            var data = "Hello";
+            $("div").bind("click", data, function (e) {
+                $("p").html("Data: " + e.data + "<br>Coords: " + e.pageX + ", " + e.pageY);
+            });
+        });
+    </script>
+</head>
+<body>
+<div>Please click me!</div>
+<p></p>
+</body>
+</html>

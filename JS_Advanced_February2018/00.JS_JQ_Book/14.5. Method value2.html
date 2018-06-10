@@ -1,0 +1,22 @@
+<html>
+<head>
+    <title>Example 14.4</title>
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        $(function(){
+        $("#button1").click(function () {
+            var value = $("input:radio[name=os]:checked").val();
+            window.alert(value);
+        });
+
+        });
+    </script>
+</head>
+<body>
+<p>Choose your OS:</p>
+    <input type="radio" name="os" value="windows" checked="checked" />Windows
+    <input type="radio" name="os" value="linux" />Linux
+    <input type="radio" name="os" value="macos" />MacOS
+    <button id="button1">Get OS!</button>
+</body>
+</html>

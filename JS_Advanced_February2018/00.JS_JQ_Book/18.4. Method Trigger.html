@@ -1,0 +1,22 @@
+<html>
+<head>
+    <title>Example 18.4</title>
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        $(function () {
+            $("div:first").click(function () {
+                window.alert("Click");
+            });
+            $("div:last").click(function () {
+                $("div:first").trigger("click");
+            });
+        });
+    </script>
+</head>
+<body>
+<div>First</div>
+<div>Second</div>
+<div>Last</div>
+<p></p>
+</body>
+</html>

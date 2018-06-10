@@ -1,0 +1,17 @@
+function SquareOfStars (n) {
+
+    if (n){
+    } else {
+        n = 5;
+    }
+
+    function printStars(count) {
+        console.log("* ".repeat(count));
+    }
+
+    for (let i = 1; i <= n; i++) {
+        printStars(n);
+
+    }
+}
+SquareOfStars(4);

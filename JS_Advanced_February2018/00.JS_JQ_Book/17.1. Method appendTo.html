@@ -1,0 +1,18 @@
+<html>
+<head>
+    <title>Example 17.1</title>
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        $(function(){
+            $("button").click(function(){
+                $("#bye").appendTo("#hello");
+            });
+        });
+    </script>
+</head>
+<body>
+    <div id="bye">Bye!</div>
+    <button>Insert</button>
+    <div id="hello">Hello!</div>
+</body>
+</html>

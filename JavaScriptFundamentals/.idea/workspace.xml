@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef1490bb-b53b-46d9-80af-1f8f98d96ebe" name="Default" comment="" />
+    <list default="true" id="ef1490bb-b53b-46d9-80af-1f8f98d96ebe" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -14,71 +16,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="4. Circle Area.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Control-FlowLogic/4. Circle Area.js">
+      <file leaf-file-name="9. Extract the Links.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/08.Exercises Strings and Regular Expressions/9. Extract the Links.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="33" lean-forward="false" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+            <state relative-caret-position="60">
+              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="01. Inside Volume.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Functions and Arrow Functions/01. Inside Volume.js">
+      <file leaf-file-name="test.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/00.Exams/JS Fundamentals Exam - 11  Februrary 2018/test.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="23" lean-forward="false" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="4. Cooking by Numbers.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Functions and Arrow Functions/4. Cooking by Numbers.js">
+      <file leaf-file-name="03. Survey Parser.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/00.Exams/JS Fundamentals Exam - 11  Februrary 2018/03. Survey Parser.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="22" lean-forward="false" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="5. Modify Average.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Functions and Arrow Functions/5. Modify Average.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="9. Radio Crystals.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Functions and Arrow Functions/9. Radio Crystals.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="40" column="5" lean-forward="true" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="3. Leap Year.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Control-FlowLogic/3. Leap Year.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2. Boxes and Bottles.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Control-FlowLogic/2. Boxes and Bottles.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+            <state relative-caret-position="222">
+              <caret line="27" column="46" lean-forward="false" selection-start-line="27" selection-start-column="46" selection-end-line="27" selection-end-column="46" />
               <folding />
             </state>
           </provider>
@@ -92,6 +54,9 @@
         <option value="JavaScript File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -108,6 +73,43 @@
         <option value="$PROJECT_DIR$/Functions and Arrow Functions/4. Cooking by Numbers.js" />
         <option value="$PROJECT_DIR$/Functions and Arrow Functions/5. Modify Average.js" />
         <option value="$PROJECT_DIR$/Functions and Arrow Functions/9. Radio Crystals.js" />
+        <option value="$PROJECT_DIR$/Functions and Arrow Functions/08. Trip Length.js" />
+        <option value="$PROJECT_DIR$/Lab Arrays  Matrices  Multi-Dimensional Arrays/1. Sum First Last.js" />
+        <option value="$PROJECT_DIR$/Lab Arrays  Matrices  Multi-Dimensional Arrays/02. Even Position Elements.js" />
+        <option value="$PROJECT_DIR$/Lab Arrays  Matrices  Multi-Dimensional Arrays/03. Negative Positive Numbers.js" />
+        <option value="$PROJECT_DIR$/Lab Arrays  Matrices  Multi-Dimensional Arrays/04. First and Last K Numbers.js" />
+        <option value="$PROJECT_DIR$/Lab Arrays  Matrices  Multi-Dimensional Arrays/05. Last K Numbers Sequence.js" />
+        <option value="$PROJECT_DIR$/Lab Arrays  Matrices  Multi-Dimensional Arrays/06. Process Odd Numbers.js" />
+        <option value="$PROJECT_DIR$/Lab Arrays  Matrices  Multi-Dimensional Arrays/07. Smallest Two Numbers.js" />
+        <option value="$PROJECT_DIR$/Lab Arrays  Matrices  Multi-Dimensional Arrays/08. Biggest Element.js" />
+        <option value="$PROJECT_DIR$/Lab Arrays  Matrices  Multi-Dimensional Arrays/09. Diagonal Sums.js" />
+        <option value="$PROJECT_DIR$/Lab Arrays  Matrices  Multi-Dimensional Arrays/10. Equal Neighbors.js" />
+        <option value="$PROJECT_DIR$/Arrays and Matrices/02. Print every N-th Element from an Array.js" />
+        <option value="$PROJECT_DIR$/Arrays and Matrices/03. Add and Remove Elements.js" />
+        <option value="$PROJECT_DIR$/Arrays and Matrices/4. Rotate Array.js" />
+        <option value="$PROJECT_DIR$/Arrays and Matrices/5. Extract an Non-decreasing Subsequence from an Array.js" />
+        <option value="$PROJECT_DIR$/Arrays and Matrices/7. Magic Matrices.js" />
+        <option value="$PROJECT_DIR$/Exercises Strings and Regular Expressions/5. Capitalize the Words.js" />
+        <option value="$PROJECT_DIR$/Functions and Arrow Functions/06. Capture the Numbers.js" />
+        <option value="$PROJECT_DIR$/Arrays and Matrices/6. Sort an Array by 2 Criteria.js" />
+        <option value="$PROJECT_DIR$/Exercises Strings and Regular Expressions/07. Find Variable Names in Sentences.js" />
+        <option value="$PROJECT_DIR$/Exercises Strings and Regular Expressions/8. Find Occurrences of Word in Sentence.js" />
+        <option value="$PROJECT_DIR$/Exercises Strings and Regular Expressions/9. Extract the Links.js" />
+        <option value="$PROJECT_DIR$/JavaScript Objects and Assoc Arrays/5. Auto-Engineering Company.js" />
+        <option value="$PROJECT_DIR$/JavaScript Objects and Assoc Arrays/06. System Components.js" />
+        <option value="$PROJECT_DIR$/JavaScript Objects and Assoc Arrays/07. Usernames.js" />
+        <option value="$PROJECT_DIR$/JavaScript Objects and Assoc Arrays/uniqueSequences.js" />
+        <option value="$PROJECT_DIR$/00.Exams/Test - Exam/SpiceMustFlow.js" />
+        <option value="$PROJECT_DIR$/00.Exams/Test - Exam/BuildWall.js" />
+        <option value="$PROJECT_DIR$/00.Exams/Test - Exam/formatHelper.js" />
+        <option value="$PROJECT_DIR$/00.Exams/Test - Exam/airport.js" />
+        <option value="$PROJECT_DIR$/00.Exams/JS Fundamentals Exam - 11  Februrary 2018/Task 1.js" />
+        <option value="$PROJECT_DIR$/00.Exams/JS Fundamentals Exam - 11  Februrary 2018/Task 2.js" />
+        <option value="$PROJECT_DIR$/00.Exams/JS Fundamentals Exam - 11  Februrary 2018/test.js" />
+        <option value="$PROJECT_DIR$/00.Exams/JS Fundamentals Exam - 11  Februrary 2018/Task 3.js" />
+        <option value="$PROJECT_DIR$/00.Exams/JS Fundamentals Exam - 11  Februrary 2018/Task 4.js" />
+        <option value="$PROJECT_DIR$/00.Exams/JS Fundamentals Exam - 11  Februrary 2018/01. Bitcoin mining.js" />
+        <option value="$PROJECT_DIR$/00.Exams/JS Fundamentals Exam - 11  Februrary 2018/03. Survey Parser.js" />
       </list>
     </option>
   </component>
@@ -144,7 +146,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -153,25 +154,11 @@
               <item name="JavaScriptFundamentals" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaScriptFundamentals" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="JavaScriptFundamentals" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaScriptFundamentals" type="462c0819:PsiDirectoryNode" />
-              <item name="Control-FlowLogic" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaScriptFundamentals" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaScriptFundamentals" type="462c0819:PsiDirectoryNode" />
-              <item name="Functions and Arrow Functions" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaScriptFundamentals" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaScriptFundamentals" type="462c0819:PsiDirectoryNode" />
-              <item name="IntrotoJavaScript" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -180,6 +167,13 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="nodejs.mocha.mocha_node_package_dir" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JS_Core2/JS_Fundamentials" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\VLD62\Dev\JS-Core\JavaScriptFundamentals\Exercises Strings and Regular Expressions" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -193,26 +187,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.9. Radio Crystals.js">
-    <configuration name="2. Boxes and Bottles.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="2. Boxes and Bottles.js" working-dir="$PROJECT_DIR$/Control-FlowLogic" />
-    <configuration name="3. Leap Year.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="3. Leap Year.js" working-dir="$PROJECT_DIR$/Control-FlowLogic" />
-    <configuration name="4. Circle Area.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="4. Circle Area.js" working-dir="$PROJECT_DIR$/Control-FlowLogic" />
-    <configuration name="4. Cooking by Numbers.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="4. Cooking by Numbers.js" working-dir="$PROJECT_DIR$/Functions and Arrow Functions" />
-    <configuration name="9. Radio Crystals.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="9. Radio Crystals.js" working-dir="$PROJECT_DIR$/Functions and Arrow Functions" />
+  <component name="RunManager" selected="Node.js.03. Survey Parser.js">
+    <configuration name="01. Bitcoin mining.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="01. Bitcoin mining.js" working-dir="$PROJECT_DIR$/00.Exams/JS Fundamentals Exam - 11  Februrary 2018" />
+    <configuration name="03. Survey Parser.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="03. Survey Parser.js" working-dir="$PROJECT_DIR$/00.Exams/JS Fundamentals Exam - 11  Februrary 2018" />
+    <configuration name="06. System Components.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="$PROJECT_DIR$/11. Exercise Objects and JSON/06. System Components.js" working-dir="$PROJECT_DIR$/11. Exercise Objects and JSON" />
+    <configuration name="SpiceMustFlow.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="SpiceMustFlow.js" working-dir="$PROJECT_DIR$/00.Exams/Test - Exam" />
+    <configuration name="uniqueSequences.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="$PROJECT_DIR$/11. Exercise Objects and JSON/uniqueSequences.js" working-dir="$PROJECT_DIR$/11. Exercise Objects and JSON" />
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.4. Circle Area.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.3. Leap Year.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.2. Boxes and Bottles.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.4. Cooking by Numbers.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.9. Radio Crystals.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.06. System Components.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.uniqueSequences.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.SpiceMustFlow.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.01. Bitcoin mining.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.03. Survey Parser.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.9. Radio Crystals.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.4. Cooking by Numbers.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.4. Circle Area.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.3. Leap Year.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.2. Boxes and Bottles.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.03. Survey Parser.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.01. Bitcoin mining.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.SpiceMustFlow.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.uniqueSequences.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.06. System Components.js" />
       </list>
     </recent_temporary>
   </component>
@@ -235,25 +229,40 @@
       <workItem from="1516537193594" duration="783000" />
       <workItem from="1516542320874" duration="988000" />
       <workItem from="1517038314268" duration="9904000" />
+      <workItem from="1517121740151" duration="900000" />
+      <workItem from="1517163453638" duration="10156000" />
+      <workItem from="1517257048284" duration="8933000" />
+      <workItem from="1517342436041" duration="23000" />
+      <workItem from="1517343069947" duration="5415000" />
+      <workItem from="1517430980353" duration="4235000" />
+      <workItem from="1517675918697" duration="17803000" />
+      <workItem from="1517865516665" duration="605000" />
+      <workItem from="1518033992897" duration="2396000" />
+      <workItem from="1518256750333" duration="430000" />
+      <workItem from="1518257698470" duration="285000" />
+      <workItem from="1518259517525" duration="159000" />
+      <workItem from="1518340403361" duration="24994000" />
+      <workItem from="1518979584167" duration="53000" />
+      <workItem from="1526809258080" duration="239000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25141000" />
+    <option name="totallyTimeSpent" value="101767000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-2" width="1366" height="735" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21522693" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19033675" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32750398" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32659408" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290938" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39813375" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3990461" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -270,11 +279,155 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/06.Arrays and Matrices/4. Rotate Array.js</url>
+          <line>3</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/06.Arrays and Matrices/5. Extract an Non-decreasing Subsequence from an Array.js</url>
+          <line>14</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="2" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Control-FlowLogic/4. Circle Area.js">
+    <entry file="file://$PROJECT_DIR$/02.Control-FlowLogic/1. Multiply Numbers.js" />
+    <entry file="file://$PROJECT_DIR$/02.Control-FlowLogic/2. Boxes and Bottles.js" />
+    <entry file="file://$PROJECT_DIR$/01.IntrotoJavaScript/5. String of Numbers 1..N.js" />
+    <entry file="file://$PROJECT_DIR$/01.IntrotoJavaScript/7. Next Day.js" />
+    <entry file="file://$PROJECT_DIR$/01.IntrotoJavaScript/8. Distance between Points.js" />
+    <entry file="file://$PROJECT_DIR$/01.IntrotoJavaScript/5. String of Numbers 1..N.js" />
+    <entry file="file://$PROJECT_DIR$/01.IntrotoJavaScript/6. Figure Area.js" />
+    <entry file="file://$PROJECT_DIR$/07.Lab Arrays  Matrices  Multi-Dimensional Arrays/1. Sum First Last.js" />
+    <entry file="file://$PROJECT_DIR$/04.Functions and Arrow Functions/01. Inside Volume.js" />
+    <entry file="file://$PROJECT_DIR$/04.Functions and Arrow Functions/08. Trip Length.js" />
+    <entry file="file://$PROJECT_DIR$/04.Functions and Arrow Functions/9. Radio Crystals.js" />
+    <entry file="file://$PROJECT_DIR$/04.Functions and Arrow Functions/5. Modify Average.js" />
+    <entry file="file://$PROJECT_DIR$/04.Functions and Arrow Functions/4. Cooking by Numbers.js" />
+    <entry file="file://$PROJECT_DIR$/07.Lab Arrays  Matrices  Multi-Dimensional Arrays/02. Even Position Elements.js" />
+    <entry file="file://$PROJECT_DIR$/07.Lab Arrays  Matrices  Multi-Dimensional Arrays/03. Negative Positive Numbers.js" />
+    <entry file="file://$PROJECT_DIR$/07.Lab Arrays  Matrices  Multi-Dimensional Arrays/06. Process Odd Numbers.js" />
+    <entry file="file://$PROJECT_DIR$/07.Lab Arrays  Matrices  Multi-Dimensional Arrays/08. Biggest Element.js" />
+    <entry file="file://$PROJECT_DIR$/06.Arrays and Matrices/02. Print every N-th Element from an Array.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="1" lean-forward="false" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06.Arrays and Matrices/03. Add and Remove Elements.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06.Arrays and Matrices/4. Rotate Array.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02.Control-FlowLogic/2. Boxes and Bottles.js" />
+    <entry file="file://$PROJECT_DIR$/02.Control-FlowLogic/4. Circle Area.js" />
+    <entry file="file://$PROJECT_DIR$/02.Control-FlowLogic/3. Leap Year.js" />
+    <entry file="file://$PROJECT_DIR$/02.Control-FlowLogic/1. Multiply Numbers.js" />
+    <entry file="file://$PROJECT_DIR$/07.Lab Arrays  Matrices  Multi-Dimensional Arrays/10. Equal Neighbors.js" />
+    <entry file="file://$PROJECT_DIR$/07.Lab Arrays  Matrices  Multi-Dimensional Arrays/09. Diagonal Sums.js" />
+    <entry file="file://$PROJECT_DIR$/07.Lab Arrays  Matrices  Multi-Dimensional Arrays/07. Smallest Two Numbers.js" />
+    <entry file="file://$PROJECT_DIR$/07.Lab Arrays  Matrices  Multi-Dimensional Arrays/05. Last K Numbers Sequence.js" />
+    <entry file="file://$PROJECT_DIR$/07.Lab Arrays  Matrices  Multi-Dimensional Arrays/04. First and Last K Numbers.js" />
+    <entry file="file://$PROJECT_DIR$/06.Arrays and Matrices/7. Magic Matrices.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="15" lean-forward="false" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06.Arrays and Matrices/6. Sort an Array by 2 Criteria.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06.Arrays and Matrices/5. Extract an Non-decreasing Subsequence from an Array.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08.Exercises Strings and Regular Expressions/06. Capture the Numbers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08.Exercises Strings and Regular Expressions/5. Capitalize the Words.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="35" lean-forward="false" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08.Exercises Strings and Regular Expressions/8. Find Occurrences of Word in Sentence.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="25" lean-forward="false" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08.Exercises Strings and Regular Expressions/07. Find Variable Names in Sentences.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="32" lean-forward="false" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11. Exercise Objects and JSON/5. Auto-Engineering Company.js" />
+    <entry file="file://$PROJECT_DIR$/11. Exercise Objects and JSON/06. System Components.js" />
+    <entry file="file://$PROJECT_DIR$/11. Exercise Objects and JSON/07. Usernames.js" />
+    <entry file="file://$PROJECT_DIR$/11. Exercise Objects and JSON/uniqueSequences.js" />
+    <entry file="file://$PROJECT_DIR$/00.Exams/Test - Exam/SpiceMustFlow.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/00.Exams/Test - Exam/BuildWall.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="17" column="31" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/00.Exams/Test - Exam/formatHelper.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_04. Airport_Авторско решение + Тестове.zip/solution.js" />
+    <entry file="file://$PROJECT_DIR$/00.Exams/Test - Exam/airport.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="45" column="29" lean-forward="false" selection-start-line="45" selection-start-column="29" selection-end-line="45" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/00.Exams/JS Fundamentals Exam - 11  Februrary 2018/test.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -282,282 +435,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Control-FlowLogic/3. Leap Year.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Control-FlowLogic/2. Boxes and Bottles.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IntrotoJavaScript/5. String of Numbers 1..N.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IntrotoJavaScript/6. Figure Area.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IntrotoJavaScript/7. Next Day.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IntrotoJavaScript/8. Distance between Points.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="36" lean-forward="false" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Control-FlowLogic/1. Multiply Numbers.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Control-FlowLogic/2. Boxes and Bottles.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Control-FlowLogic/3. Leap Year.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="1" lean-forward="false" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Control-FlowLogic/4. Circle Area.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IntrotoJavaScript/5. String of Numbers 1..N.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IntrotoJavaScript/7. Next Day.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IntrotoJavaScript/8. Distance between Points.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="36" lean-forward="false" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Control-FlowLogic/1. Multiply Numbers.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Control-FlowLogic/2. Boxes and Bottles.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Control-FlowLogic/3. Leap Year.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="9" lean-forward="false" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IntrotoJavaScript/5. String of Numbers 1..N.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IntrotoJavaScript/6. Figure Area.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IntrotoJavaScript/7. Next Day.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IntrotoJavaScript/8. Distance between Points.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="36" lean-forward="false" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Control-FlowLogic/1. Multiply Numbers.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Control-FlowLogic/2. Boxes and Bottles.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="30" lean-forward="false" selection-start-line="0" selection-start-column="30" selection-end-line="0" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IntrotoJavaScript/5. String of Numbers 1..N.js">
+    <entry file="file://$PROJECT_DIR$/00.Exams/JS Fundamentals Exam - 11  Februrary 2018/04. Game of Epicness.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/IntrotoJavaScript/7. Next Day.js">
+    <entry file="file://$PROJECT_DIR$/00.Exams/JS Fundamentals Exam - 11  Februrary 2018/02. Air Pollution.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/00.Exams/JS Fundamentals Exam - 11  Februrary 2018/01. Bitcoin mining.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="9" lean-forward="false" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08.Exercises Strings and Regular Expressions/9. Extract the Links.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/IntrotoJavaScript/8. Distance between Points.js">
+    <entry file="file://$PROJECT_DIR$/00.Exams/JS Fundamentals Exam - 11  Februrary 2018/03. Survey Parser.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="36" lean-forward="false" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Control-FlowLogic/1. Multiply Numbers.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IntrotoJavaScript/5. String of Numbers 1..N.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IntrotoJavaScript/6. Figure Area.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="23" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Control-FlowLogic/2. Boxes and Bottles.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Control-FlowLogic/3. Leap Year.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Control-FlowLogic/4. Circle Area.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="33" lean-forward="false" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Functions and Arrow Functions/01. Inside Volume.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="23" lean-forward="false" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Functions and Arrow Functions/4. Cooking by Numbers.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="22" lean-forward="false" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Functions and Arrow Functions/5. Modify Average.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Functions and Arrow Functions/9. Radio Crystals.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="40" column="5" lean-forward="true" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+        <state relative-caret-position="222">
+          <caret line="27" column="46" lean-forward="false" selection-start-line="27" selection-start-column="46" selection-end-line="27" selection-end-column="46" />
           <folding />
         </state>
       </provider>

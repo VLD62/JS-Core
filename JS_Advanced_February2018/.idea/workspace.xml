@@ -14,103 +14,101 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="02. Add Delete.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3. Lab DOM Manipulation/02. Add Delete.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="28" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="03. Delete from Table.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3. Lab DOM Manipulation/03. Delete from Table.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="19" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="04. Stopwatch.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3. Lab DOM Manipulation/04. Stopwatch.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="560">
-              <caret line="29" column="5" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="29" selection-end-column="5" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="05. Mouse Gradient.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3. Lab DOM Manipulation/05. Mouse Gradient.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="4" column="3" lean-forward="false" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="39" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="gradient.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3. Lab DOM Manipulation/gradient.js">
+      <file leaf-file-name="01. Sub Sum.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/11. Lab Unit Testing with Mocha/01. Sub Sum.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
-              <caret line="12" column="2" lean-forward="false" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+              <caret line="12" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="06. Highlight Active.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3. Lab DOM Manipulation/06. Highlight Active.html">
+      <file leaf-file-name="02. Playing Cards.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/11. Lab Unit Testing with Mocha/02. Playing Cards.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="13" column="5" lean-forward="false" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+            <state relative-caret-position="180">
+              <caret line="9" column="19" lean-forward="false" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="focus.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3. Lab DOM Manipulation/focus.js">
+      <file leaf-file-name="test-sum-of-numbers.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/11. Lab Unit Testing with Mocha/test/test-sum-of-numbers.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20">
-              <caret line="1" column="10" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <state relative-caret-position="200">
+              <caret line="10" column="33" lean-forward="false" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="07. Dynamic Validation.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/3. Lab DOM Manipulation/07. Dynamic Validation.html">
+      <file leaf-file-name="05. Check for Symmetry.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/11. Lab Unit Testing with Mocha/05. Check for Symmetry.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="14" column="27" lean-forward="false" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+            <state relative-caret-position="0">
+              <caret line="0" column="20" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="20" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="focus.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3. Lab DOM Manipulation/focus.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="gradient.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3. Lab DOM Manipulation/gradient.css">
+      <file leaf-file-name=".~lock.3. JS-Advanced-DOM-Manipulation.pptx#" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.~lock.3. JS-Advanced-DOM-Manipulation.pptx#">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test-symmetry.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/11. Lab Unit Testing with Mocha/test/test-symmetry.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="3" column="32" lean-forward="false" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="06. RGB to Hex.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/11. Lab Unit Testing with Mocha/06. RGB to Hex.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="22" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test-rgb.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/11. Lab Unit Testing with Mocha/test/test-rgb.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="36" lean-forward="false" selection-start-line="0" selection-start-column="36" selection-end-line="0" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="07. Add Subtract.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/11. Lab Unit Testing with Mocha/07. Add Subtract.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="8" column="32" lean-forward="false" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test-calculator.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/11. Lab Unit Testing with Mocha/test/test-calculator.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="44" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -121,32 +119,75 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>RGB</find>
+      <find>SYMMETRY</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>rgbToHexColor</replace>
+      <replace>isSymmetric</replace>
+    </replaceStrings>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/2. JS-Advanced-Document-Object-Model-Lab/1. Sum Numbers.html" />
-        <option value="$PROJECT_DIR$/2. JS-Advanced-Document-Object-Model-Lab/02. Show More.js" />
-        <option value="$PROJECT_DIR$/2. JS-Advanced-Document-Object-Model-Lab/02. Show More.html" />
-        <option value="$PROJECT_DIR$/2. JS-Advanced-Document-Object-Model-Lab/03. Collect List.html" />
-        <option value="$PROJECT_DIR$/2. JS-Advanced-Document-Object-Model-Lab/04. Colorize Table.html" />
-        <option value="$PROJECT_DIR$/2. JS-Advanced-Document-Object-Model-Lab/5. Countdown.html" />
-        <option value="$PROJECT_DIR$/2. JS-Advanced-Document-Object-Model-Lab/05. Countdown.html" />
-        <option value="$PROJECT_DIR$/2. JS-Advanced-Document-Object-Model-Lab/06. Extract Parenthesis.html" />
-        <option value="$PROJECT_DIR$/2. JS-Advanced-Document-Object-Model-Lab/07. Sum Table.html" />
-        <option value="$PROJECT_DIR$/3. Lab DOM Manipulation/01. List of Items.html" />
-        <option value="$PROJECT_DIR$/3. Lab DOM Manipulation/02. Add Delete.html" />
-        <option value="$PROJECT_DIR$/3. Lab DOM Manipulation/03. Delete from Table.html" />
-        <option value="$PROJECT_DIR$/3. Lab DOM Manipulation/04. Stopwatch.html" />
-        <option value="$PROJECT_DIR$/3. Lab DOM Manipulation/05. Mouse Gradient.html" />
-        <option value="$PROJECT_DIR$/3. Lab DOM Manipulation/focus.js" />
-        <option value="$PROJECT_DIR$/3. Lab DOM Manipulation/focus.css" />
-        <option value="$PROJECT_DIR$/3. Lab DOM Manipulation/06. Highlight Active.html" />
-        <option value="$PROJECT_DIR$/3. Lab DOM Manipulation/07. Dynamic Validation.html" />
+        <option value="$PROJECT_DIR$/9. Lab Object Composition/04. Object Inheritance.js" />
+        <option value="$PROJECT_DIR$/9. Lab Object Composition/02. Fibonacci.js" />
+        <option value="$PROJECT_DIR$/10. Object Composition/02. Construction Crew.js" />
+        <option value="$PROJECT_DIR$/10. Object Composition/03. Car Factory.js" />
+        <option value="$PROJECT_DIR$/10. Object Composition/04. Extensible Object.js" />
+        <option value="$PROJECT_DIR$/10. Object Composition/06. Sorted List.js" />
+        <option value="$PROJECT_DIR$/10. Object Composition/07. DOM Highlighter.js" />
+        <option value="$PROJECT_DIR$/10. Object Composition/08. Bug Tracker.js" />
+        <option value="$PROJECT_DIR$/10. Object Composition/01. Array extension.js" />
+        <option value="$PROJECT_DIR$/10. Object Composition/05. String extension.js" />
+        <option value="$PROJECT_DIR$/00.JS_JQ_Book/13.3. Simple Select.html" />
+        <option value="$PROJECT_DIR$/00.JS_JQ_Book/13.3. Simple Select by Id.html" />
+        <option value="$PROJECT_DIR$/00.JS_JQ_Book/13.3. Select all types.html" />
+        <option value="$PROJECT_DIR$/00.JS_JQ_Book/13.4. Multiple Select.html" />
+        <option value="$PROJECT_DIR$/00.JS_JQ_Book/13.5. Filter first.html" />
+        <option value="$PROJECT_DIR$/00.JS_JQ_Book/14.1. Set element attribute.html" />
+        <option value="$PROJECT_DIR$/00.JS_JQ_Book/14.2. Styles.html" />
+        <option value="$PROJECT_DIR$/00.JS_JQ_Book/14.3. Method text.html" />
+        <option value="$PROJECT_DIR$/00.JS_JQ_Book/14.4. Method value.html" />
+        <option value="$PROJECT_DIR$/00.JS_JQ_Book/14.5. Method value2.html" />
+        <option value="$PROJECT_DIR$/00.JS_JQ_Book/15.1. Methods hide show toggle.html" />
+        <option value="$PROJECT_DIR$/00.JS_JQ_Book/15.1. Methods slideUp slideDown slideToggle.html" />
+        <option value="$PROJECT_DIR$/00.JS_JQ_Book/15.3. Methods fadeOut fadeIn fadeToggle.html" />
+        <option value="$PROJECT_DIR$/00.JS_JQ_Book/15.4. Methods fadeTo.html" />
+        <option value="$PROJECT_DIR$/00.JS_JQ_Book/15.5. Methods animate.html" />
+        <option value="$PROJECT_DIR$/00.JS_JQ_Book/15.5. Change CSS.html" />
+        <option value="$PROJECT_DIR$/00.JS_JQ_Book/15.6. Change CSS.html" />
+        <option value="$PROJECT_DIR$/00.JS_JQ_Book/16.1. Data and jQuery.html" />
+        <option value="$PROJECT_DIR$/00.JS_JQ_Book/16.2. Data attribute.html" />
+        <option value="$PROJECT_DIR$/00.JS_JQ_Book/17.1. Methods appendTo prependTo.html" />
+        <option value="$PROJECT_DIR$/00.JS_JQ_Book/17.1. Method appendTo.html" />
+        <option value="$PROJECT_DIR$/00.JS_JQ_Book/17.2. Methods after before.html" />
+        <option value="$PROJECT_DIR$/00.JS_JQ_Book/17.3. Change HTML elements.html" />
+        <option value="$PROJECT_DIR$/00.JS_JQ_Book/17.4. Method Unwrap.html" />
+        <option value="$PROJECT_DIR$/00.JS_JQ_Book/17.5. Method Unwrap.html" />
+        <option value="$PROJECT_DIR$/00.JS_JQ_Book/17.5. Method replaceWith.html" />
+        <option value="$PROJECT_DIR$/00.JS_JQ_Book/18.1. Method load and unload.html" />
+        <option value="$PROJECT_DIR$/00.JS_JQ_Book/18.2. Method obBeforeUnload.html" />
+        <option value="$PROJECT_DIR$/00.JS_JQ_Book/18.3. Method Bind.html" />
+        <option value="$PROJECT_DIR$/00.JS_JQ_Book/18.4. Method Trigger.html" />
+        <option value="$PROJECT_DIR$/11. Lab Unit Testing with Mocha/01. Sub Sum.js" />
+        <option value="$PROJECT_DIR$/11. Lab Unit Testing with Mocha/02. Playing Cards.js" />
+        <option value="$PROJECT_DIR$/11. Lab Unit Testing with Mocha/03. Deck of Cards.js" />
+        <option value="$PROJECT_DIR$/11. Lab Unit Testing with Mocha/04. Sum of Numbers.js" />
+        <option value="$PROJECT_DIR$/11. Lab Unit Testing with Mocha/test/test-sum-of-numbers.js" />
+        <option value="$PROJECT_DIR$/11. Lab Unit Testing with Mocha/05. Check for Symmetry.js" />
+        <option value="$PROJECT_DIR$/11. Lab Unit Testing with Mocha/06. RGB to Hex.js" />
+        <option value="$PROJECT_DIR$/11. Lab Unit Testing with Mocha/test/test-rgb.js" />
+        <option value="$PROJECT_DIR$/11. Lab Unit Testing with Mocha/test/test-symmetry.js" />
+        <option value="$PROJECT_DIR$/11. Lab Unit Testing with Mocha/07. Add Subtract.js" />
+        <option value="$PROJECT_DIR$/11. Lab Unit Testing with Mocha/test/test-calculator.js" />
       </list>
     </option>
   </component>
@@ -162,7 +203,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="1" />
     <option name="width" value="1386" />
     <option name="height" value="788" />
@@ -182,8 +223,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -191,20 +230,12 @@
               <item name="JS_Advanced_February2018" type="b2602c69:ProjectViewProjectNode" />
               <item name="JS_Advanced_February2018" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="JS_Advanced_February2018" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JS_Advanced_February2018" type="462c0819:PsiDirectoryNode" />
-              <item name="2. JS-Advanced-Document-Object-Model-Lab" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JS_Advanced_February2018" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JS_Advanced_February2018" type="462c0819:PsiDirectoryNode" />
-              <item name="3. Lab DOM Manipulation" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -212,9 +243,16 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JS_Applications" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="$USER_HOME$/AppData/Roaming/npm/node_modules/mocha" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\VLD62\Dev\JS-Core\JS_Advanced_February2018\11. Lab Unit Testing with Mocha\test" />
+      <recent name="C:\Users\VLD62\Dev\JS-Core\JS_Advanced_February2018\00.JS_JQ_Book" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -227,6 +265,30 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager" selected="Mocha.MochaTest">
+    <configuration name="test-sum-of-numbers.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="test-sum-of-numbers.js" working-dir="$PROJECT_DIR$/11. Lab Unit Testing with Mocha/test" />
+    <configuration name="MochaTest" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory>$PROJECT_DIR$/11. Lab Unit Testing with Mocha/test</test-directory>
+      <recursive>true</recursive>
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Mocha.MochaTest" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.test-sum-of-numbers.js" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.test-sum-of-numbers.js" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -242,27 +304,64 @@
       <option name="presentableId" value="Default" />
       <updated>1518457095301</updated>
       <workItem from="1518457096685" duration="15875000" />
-      <workItem from="1518979640364" duration="2363000" />
+      <workItem from="1518979640364" duration="2868000" />
+      <workItem from="1519584608496" duration="3675000" />
+      <workItem from="1520022589236" duration="1755000" />
+      <workItem from="1520184176916" duration="1097000" />
+      <workItem from="1520251999353" duration="20821000" />
+      <workItem from="1520353118373" duration="7739000" />
+      <workItem from="1523441837194" duration="51000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="MochaTest - 2018.03.06 at 21h 11m 19s.xml">
+      <configuration name="MochaTest" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="MochaTest - 2018.03.06 at 21h 11m 35s.xml">
+      <configuration name="MochaTest" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="MochaTest - 2018.03.06 at 21h 17m 06s.xml">
+      <configuration name="MochaTest" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="MochaTest - 2018.03.06 at 21h 17m 51s.xml">
+      <configuration name="MochaTest" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="MochaTest - 2018.03.06 at 21h 18m 12s.xml">
+      <configuration name="MochaTest" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="MochaTest - 2018.03.06 at 21h 19m 30s.xml">
+      <configuration name="MochaTest" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="MochaTest - 2018.03.06 at 21h 22m 45s.xml">
+      <configuration name="MochaTest" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="MochaTest - 2018.03.06 at 21h 23m 00s.xml">
+      <configuration name="MochaTest" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="MochaTest - 2018.03.06 at 21h 23m 15s.xml">
+      <configuration name="MochaTest" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="MochaTest - 2018.03.06 at 21h 23m 42s.xml">
+      <configuration name="MochaTest" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18238000" />
+    <option name="totallyTimeSpent" value="53881000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="1" width="1386" height="788" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25036496" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2510981" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970452" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39968896" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -283,94 +382,66 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/2. JS-Advanced-Document-Object-Model-Lab/02. Show More.html">
+    <entry file="file://$PROJECT_DIR$/10. Object Composition/02. Construction Crew.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="12" lean-forward="false" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="67" />
-          <folding />
+        <state relative-caret-position="480">
+          <caret line="24" column="8" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2. JS-Advanced-Document-Object-Model-Lab/03. Collect List.html">
+    <entry file="file://$PROJECT_DIR$/10. Object Composition/03. Car Factory.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="21" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="760">
+          <caret line="38" column="21" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2. JS-Advanced-Document-Object-Model-Lab/04. Colorize Table.html">
+    <entry file="file://$PROJECT_DIR$/10. Object Composition/04. Extensible Object.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="20" column="9" lean-forward="false" selection-start-line="12" selection-start-column="7" selection-end-line="20" selection-end-column="9" />
-          <folding />
+        <state relative-caret-position="480">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2. JS-Advanced-Document-Object-Model-Lab/05. Countdown.html">
+    <entry file="file://$PROJECT_DIR$/10. Object Composition/06. Sorted List.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="5" selection-start-column="2" selection-end-line="16" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#input#0;n#head#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
+        <state relative-caret-position="940">
+          <caret line="47" column="25" lean-forward="false" selection-start-line="47" selection-start-column="25" selection-end-line="47" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2. JS-Advanced-Document-Object-Model-Lab/06. Extract Parenthesis.html">
+    <entry file="file://$PROJECT_DIR$/10. Object Composition/07. DOM Highlighter.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="18" selection-end-column="9" />
-          <folding />
+        <state relative-caret-position="240">
+          <caret line="12" column="5" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="24" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2. JS-Advanced-Document-Object-Model-Lab/07. Sum Table.html">
+    <entry file="file://$PROJECT_DIR$/10. Object Composition/08. Bug Tracker.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="46" lean-forward="false" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
-          <folding />
+        <state relative-caret-position="1120">
+          <caret line="56" column="27" lean-forward="false" selection-start-line="56" selection-start-column="27" selection-end-line="56" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3. Lab DOM Manipulation/01. List of Items.html">
+    <entry file="file://$PROJECT_DIR$/10. Object Composition/01. Array extension.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="20" column="5" lean-forward="false" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-          <folding />
+        <state relative-caret-position="40">
+          <caret line="2" column="6" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="19" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3. Lab DOM Manipulation/02. Add Delete.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="28" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3. Lab DOM Manipulation/03. Delete from Table.html">
+    <entry file="file://$PROJECT_DIR$/10. Object Composition/05. String extension.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="19" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3. Lab DOM Manipulation/04. Stopwatch.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="21" column="36" lean-forward="true" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+          <caret line="6" column="35" lean-forward="false" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/2. JS-Advanced-Document-Object-Model-Lab/01. Sum Numbers.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="19" column="7" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="19" selection-end-column="7" />
+        <state relative-caret-position="100">
+          <caret line="5" column="33" lean-forward="false" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
         </state>
       </provider>
     </entry>
@@ -378,7 +449,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
           <caret line="8" column="12" lean-forward="false" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="67" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -386,95 +456,220 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="21" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2. JS-Advanced-Document-Object-Model-Lab/04. Colorize Table.html">
+    <entry file="file://$PROJECT_DIR$/5. Lab jQuery Library/01. Text from List.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="20" column="9" lean-forward="false" selection-start-line="12" selection-start-column="7" selection-end-line="20" selection-end-column="9" />
-          <folding />
+        <state relative-caret-position="100">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="6" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2. JS-Advanced-Document-Object-Model-Lab/05. Countdown.html">
+    <entry file="file://$PROJECT_DIR$/00.JS_JQ_Book/15.2. Methods slideUp slideDown slideToggle.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="17" column="44" lean-forward="true" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/00.JS_JQ_Book/15.1. Methods hide show toggle.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="577">
+          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/00.JS_JQ_Book/14.4. Method value.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="5" selection-start-column="2" selection-end-line="16" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#input#0;n#head#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2. JS-Advanced-Document-Object-Model-Lab/06. Extract Parenthesis.html">
+    <entry file="file://$PROJECT_DIR$/00.JS_JQ_Book/14.1. Set element attribute.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="18" selection-end-column="9" />
-          <folding />
+        <state relative-caret-position="300">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2. JS-Advanced-Document-Object-Model-Lab/07. Sum Table.html">
+    <entry file="file://$PROJECT_DIR$/00.JS_JQ_Book/13.5. Filter first.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="46" lean-forward="false" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
-          <folding />
+        <state relative-caret-position="300">
+          <caret line="15" column="6" lean-forward="true" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3. Lab DOM Manipulation/01. List of Items.html">
+    <entry file="file://$PROJECT_DIR$/00.JS_JQ_Book/13.4. Multiple Select.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="20" column="5" lean-forward="false" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-          <folding />
+        <state relative-caret-position="300">
+          <caret line="15" column="7" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3. Lab DOM Manipulation/02. Add Delete.html">
+    <entry file="file://$PROJECT_DIR$/00.JS_JQ_Book/13.3. Select all types.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="28" selection-end-column="5" />
-          <folding />
+          <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3. Lab DOM Manipulation/03. Delete from Table.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="19" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3. Lab DOM Manipulation/04. Stopwatch.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="560">
-          <caret line="29" column="5" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="29" selection-end-column="5" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3. Lab DOM Manipulation/gradient.js">
+    <entry file="file://$PROJECT_DIR$/00.JS_JQ_Book/13.2. Simple Select by Id.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="12" column="2" lean-forward="false" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
-          <folding />
+          <caret line="12" column="7" lean-forward="false" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3. Lab DOM Manipulation/focus.css">
+    <entry file="file://$PROJECT_DIR$/00.JS_JQ_Book/13.1. Simple Select.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="17" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/00.JS_JQ_Book/14.2. Styles.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="27" column="16" lean-forward="true" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/00.JS_JQ_Book/14.3. Method text.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="23" lean-forward="false" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/00.JS_JQ_Book/14.5. Method value2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="27" lean-forward="true" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/00.JS_JQ_Book/15.3. Methods fadeOut fadeIn fadeToggle.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/00.JS_JQ_Book/15.4. Methods fadeTo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="23" lean-forward="false" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/00.JS_JQ_Book/15.5. Methods animate.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="18" column="18" lean-forward="false" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/00.JS_JQ_Book/15.6. Change CSS.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="45" lean-forward="false" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/00.JS_JQ_Book/16.1. Data and jQuery.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/00.JS_JQ_Book/16.2. Data attribute.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="50" lean-forward="false" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/00.JS_JQ_Book/17.1. Method appendTo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="28" lean-forward="false" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/00.JS_JQ_Book/17.2. Methods after before.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="25" lean-forward="false" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/00.JS_JQ_Book/17.4. Method Unwrap.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="12" lean-forward="false" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/00.JS_JQ_Book/17.3. Method Wrap.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="7" lean-forward="false" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/00.JS_JQ_Book/17.5. Method replaceWith.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
+          <caret line="14" column="35" lean-forward="false" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3. Lab DOM Manipulation/gradient.css">
+    <entry file="file://$PROJECT_DIR$/00.JS_JQ_Book/18.1. Method load and unload.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="23" lean-forward="false" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/00.JS_JQ_Book/18.2. Method onBeforeUnload.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="64" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/00.JS_JQ_Book/18.3. Method Bind.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="23" lean-forward="false" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/00.JS_JQ_Book/18.4. Method Trigger.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="11" lean-forward="false" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11. Lab Unit Testing with Mocha/03. Deck of Cards.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11. Lab Unit Testing with Mocha/04. Sum of Numbers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="1" lean-forward="false" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.~lock.3. JS-Advanced-DOM-Manipulation.pptx#">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -482,34 +677,74 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3. Lab DOM Manipulation/05. Mouse Gradient.html">
+    <entry file="file://$PROJECT_DIR$/11. Lab Unit Testing with Mocha/01. Sub Sum.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="3" lean-forward="false" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="39" />
+        <state relative-caret-position="240">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3. Lab DOM Manipulation/06. Highlight Active.html">
+    <entry file="file://$PROJECT_DIR$/11. Lab Unit Testing with Mocha/02. Playing Cards.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="13" column="5" lean-forward="false" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        <state relative-caret-position="180">
+          <caret line="9" column="19" lean-forward="false" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3. Lab DOM Manipulation/focus.js">
+    <entry file="file://$PROJECT_DIR$/11. Lab Unit Testing with Mocha/05. Check for Symmetry.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="1" column="10" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="20" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3. Lab DOM Manipulation/07. Dynamic Validation.html">
+    <entry file="file://$PROJECT_DIR$/11. Lab Unit Testing with Mocha/06. RGB to Hex.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="14" column="27" lean-forward="false" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+        <state relative-caret-position="0">
+          <caret line="0" column="22" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11. Lab Unit Testing with Mocha/test/test-sum-of-numbers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="33" lean-forward="false" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11. Lab Unit Testing with Mocha/test/test-symmetry.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="32" lean-forward="false" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11. Lab Unit Testing with Mocha/test/test-rgb.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="36" lean-forward="false" selection-start-line="0" selection-start-column="36" selection-end-line="0" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11. Lab Unit Testing with Mocha/07. Add Subtract.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="32" lean-forward="false" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11. Lab Unit Testing with Mocha/test/test-calculator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="44" selection-end-column="3" />
           <folding />
         </state>
       </provider>
