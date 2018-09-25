@@ -1,0 +1,758 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="48176377-a688-4925-b507-74b32322d5af" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="13. Last Month.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03. DataTypes Expressions Statements/13. Last Month.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40">
+              <caret line="2" column="1" lean-forward="false" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="14. Biggest of 3 Numbers.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03. DataTypes Expressions Statements/14. Biggest of 3 Numbers.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="3" column="1" lean-forward="false" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="15. Point in Rectangle.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03. DataTypes Expressions Statements/15. Point in Rectangle.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="17" column="1" lean-forward="false" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="16. Odd Numbers 1 to N.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03. DataTypes Expressions Statements/16. Odd Numbers 1 to N.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="6" column="1" lean-forward="false" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="17. Triangle of Dollars.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03. DataTypes Expressions Statements/17. Triangle of Dollars.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="7" column="1" lean-forward="false" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="18. Movie Prices.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03. DataTypes Expressions Statements/18. Movie Prices.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="556">
+              <caret line="84" column="1" lean-forward="false" selection-start-line="84" selection-start-column="1" selection-end-line="84" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="19. Quadratic Equation.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03. DataTypes Expressions Statements/19. Quadratic Equation.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="14" column="1" lean-forward="false" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="20. Multiplication Table.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03. DataTypes Expressions Statements/20. Multiplication Table.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="21" column="1" lean-forward="false" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="21. Figure of 4 Squares.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03. DataTypes Expressions Statements/21. Figure of 4 Squares.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="22. Monthly Calendar.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/03. DataTypes Expressions Statements/22. Monthly Calendar.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40">
+              <caret line="2" column="4" lean-forward="false" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>лет</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>let</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\Users\VLD62\Dev\JS-Core\JS_Core3\JS_Fundamentials\03. DataTypes Expressions Statements</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/08. Lab Strings and Regular Expressions/11. Simple Email Validation.js" />
+        <option value="$PROJECT_DIR$/10. Lab Objects and Associative Arrays/01. Towns to JSON.js" />
+        <option value="$PROJECT_DIR$/10. Lab Objects and Associative Arrays/02. Score to HTML.js" />
+        <option value="$PROJECT_DIR$/JS Fundamentals Exam - 10 June 2018/2 – Travel Investigation.js" />
+        <option value="$PROJECT_DIR$/JS Fundamentals Exam - 10 June 2018/test.js" />
+        <option value="$PROJECT_DIR$/JS Fundamentals Exam - 10 June 2018/2. Travel Investigation.js" />
+        <option value="$PROJECT_DIR$/JS Fundamentals Exam - 10 June 2018/3. Minke, decode.js" />
+        <option value="$PROJECT_DIR$/JS Fundamentals Exam - 10 June 2018/4.Travel Time.js" />
+        <option value="$PROJECT_DIR$/JS Fundamentals Exam - 10 June 2018/1.Travel Plans.js" />
+        <option value="$PROJECT_DIR$/01.IntrotoJavaScript/1. Sum 3 Numbers.js" />
+        <option value="$PROJECT_DIR$/01.IntrotoJavaScript/2. Calculate Sum and VAT.js" />
+        <option value="$PROJECT_DIR$/01.IntrotoJavaScript/3. Letter Occurences In String.js" />
+        <option value="$PROJECT_DIR$/01.IntrotoJavaScript/4. Filter By Age.js" />
+        <option value="$PROJECT_DIR$/01.IntrotoJavaScript/5. String of Numbers 1..N.js" />
+        <option value="$PROJECT_DIR$/01.IntrotoJavaScript/6. Figure Area.js" />
+        <option value="$PROJECT_DIR$/01.IntrotoJavaScript/7. Next Day.js" />
+        <option value="$PROJECT_DIR$/01.IntrotoJavaScript/8. Distance between Points.js" />
+        <option value="$PROJECT_DIR$/02.Control-FlowLogic/1. Multiply Numbers.js" />
+        <option value="$PROJECT_DIR$/02.Control-FlowLogic/2. Boxes and Bottles.js" />
+        <option value="$PROJECT_DIR$/02.Control-FlowLogic/3. Leap Year.js" />
+        <option value="$PROJECT_DIR$/02.Control-FlowLogic/4. Circle Area.js" />
+        <option value="$PROJECT_DIR$/02.Control-FlowLogic/5. Triangle Area.js" />
+        <option value="$PROJECT_DIR$/02.Control-FlowLogic/6. Cone.js" />
+        <option value="$PROJECT_DIR$/02.Control-FlowLogic/7. Odd  Even.js" />
+        <option value="$PROJECT_DIR$/02.Control-FlowLogic/8. Fruit or Vegetable.js" />
+        <option value="$PROJECT_DIR$/02.Control-FlowLogic/9. Colorful Numbers.js" />
+        <option value="$PROJECT_DIR$/02.Control-FlowLogic/10. Chessboard.js" />
+        <option value="$PROJECT_DIR$/02.Control-FlowLogic/11. Binary Logarithm.js" />
+        <option value="$PROJECT_DIR$/02.Control-FlowLogic/12. Prime Number Checker.js" />
+        <option value="$PROJECT_DIR$/03. DataTypes Expressions Statements/1. Hello JS.js" />
+        <option value="$PROJECT_DIR$/03. DataTypes Expressions Statements/02. Area and Perimeter.js" />
+        <option value="$PROJECT_DIR$/03. DataTypes Expressions Statements/03. Distance over Time.js" />
+        <option value="$PROJECT_DIR$/03. DataTypes Expressions Statements/04. Distance in 3D.js" />
+        <option value="$PROJECT_DIR$/03. DataTypes Expressions Statements/05. Grads to Radians.js" />
+        <option value="$PROJECT_DIR$/03. DataTypes Expressions Statements/06. Compound Interest.js" />
+        <option value="$PROJECT_DIR$/03. DataTypes Expressions Statements/07. Rounding.js" />
+        <option value="$PROJECT_DIR$/03. DataTypes Expressions Statements/08. Imperial Units.js" />
+        <option value="$PROJECT_DIR$/03. DataTypes Expressions Statements/09. Now Playing.js" />
+        <option value="$PROJECT_DIR$/03. DataTypes Expressions Statements/10. Compose Tag.js" />
+        <option value="$PROJECT_DIR$/03. DataTypes Expressions Statements/11. Binary to Decimal.js" />
+        <option value="$PROJECT_DIR$/03. DataTypes Expressions Statements/12. Assign Properties.js" />
+        <option value="$PROJECT_DIR$/03. DataTypes Expressions Statements/13. Last Month.js" />
+        <option value="$PROJECT_DIR$/03. DataTypes Expressions Statements/14. Biggest of 3 Numbers.js" />
+        <option value="$PROJECT_DIR$/03. DataTypes Expressions Statements/15. Point in Rectangle.js" />
+        <option value="$PROJECT_DIR$/03. DataTypes Expressions Statements/16. Odd Numbers 1 to N.js" />
+        <option value="$PROJECT_DIR$/03. DataTypes Expressions Statements/17. Triangle of Dollars.js" />
+        <option value="$PROJECT_DIR$/03. DataTypes Expressions Statements/18. Movie Prices.js" />
+        <option value="$PROJECT_DIR$/03. DataTypes Expressions Statements/19. Quadratic Equation.js" />
+        <option value="$PROJECT_DIR$/03. DataTypes Expressions Statements/20. Multiplication Table.js" />
+        <option value="$PROJECT_DIR$/03. DataTypes Expressions Statements/21. Figure of 4 Squares.js" />
+        <option value="$PROJECT_DIR$/03. DataTypes Expressions Statements/22. Monthly Calendar.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="47" />
+    <option name="width" value="1346" />
+    <option name="height" value="664" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JS_Fundamentials" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JS_Fundamentials" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JS_Fundamentials" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JS_Fundamentials" type="462c0819:PsiDirectoryNode" />
+              <item name="01.IntrotoJavaScript" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JS_Fundamentials" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JS_Fundamentials" type="462c0819:PsiDirectoryNode" />
+              <item name="02.Control-FlowLogic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JS_Fundamentials" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JS_Fundamentials" type="462c0819:PsiDirectoryNode" />
+              <item name="03. DataTypes Expressions Statements" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.deploy.options" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.11. Binary to Decimal.js">
+    <configuration name="03. Distance over Time.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="03. Distance over Time.js" working-dir="$PROJECT_DIR$/03. DataTypes Expressions Statements" />
+    <configuration name="04. Distance in 3D.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="04. Distance in 3D.js" working-dir="$PROJECT_DIR$/03. DataTypes Expressions Statements" />
+    <configuration name="06. Compound Interest.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="06. Compound Interest.js" working-dir="$PROJECT_DIR$/03. DataTypes Expressions Statements" />
+    <configuration name="07. Rounding.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="07. Rounding.js" working-dir="$PROJECT_DIR$/03. DataTypes Expressions Statements" />
+    <configuration name="11. Binary to Decimal.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="11. Binary to Decimal.js" working-dir="$PROJECT_DIR$/03. DataTypes Expressions Statements" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Node.js.03. Distance over Time.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.04. Distance in 3D.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.06. Compound Interest.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.07. Rounding.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.11. Binary to Decimal.js" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.11. Binary to Decimal.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.07. Rounding.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.06. Compound Interest.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.04. Distance in 3D.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.03. Distance over Time.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48176377-a688-4925-b507-74b32322d5af" name="Default" comment="" />
+      <created>1526809497559</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1526809497559</updated>
+      <workItem from="1526809498803" duration="4478000" />
+      <workItem from="1527167267979" duration="10825000" />
+      <workItem from="1527228207441" duration="29876000" />
+      <workItem from="1527353360163" duration="1198000" />
+      <workItem from="1527419250698" duration="12420000" />
+      <workItem from="1527532011810" duration="6503000" />
+      <workItem from="1527614664167" duration="7311000" />
+      <workItem from="1527880422304" duration="5259000" />
+      <workItem from="1527949597488" duration="8074000" />
+      <workItem from="1528007637098" duration="21134000" />
+      <workItem from="1528132959097" duration="6140000" />
+      <workItem from="1528229894890" duration="2704000" />
+      <workItem from="1528312030424" duration="5055000" />
+      <workItem from="1528403470586" duration="1038000" />
+      <workItem from="1528616099811" duration="5071000" />
+      <workItem from="1528635007433" duration="21753000" />
+      <workItem from="1528656968607" duration="166000" />
+      <workItem from="1529742989797" duration="28000" />
+      <workItem from="1537776760369" duration="23070000" />
+      <workItem from="1537904056947" duration="862000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="172965000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24743778" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32659408" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.397351" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/03. DataTypes Expressions Statements/03. Distance over Time.js</url>
+          <line>4</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/03. DataTypes Expressions Statements/05. Grads to Radians.js</url>
+          <line>6</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/03. DataTypes Expressions Statements/06. Compound Interest.js</url>
+          <line>8</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/03. DataTypes Expressions Statements/11. Binary to Decimal.js</url>
+          <line>8</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/03. DataTypes Expressions Statements/15. Point in Rectangle.js</url>
+          <line>8</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/05. Functions and Arrow Functions/02. Road Radar.js</url>
+          <line>12</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/02.Control-FlowLogic/7. Odd  Even.js</url>
+          <line>6</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="12" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/10. Lab Objects and Associative Arrays/01. Towns to JSON.js" />
+    <entry file="file://$PROJECT_DIR$/10. Lab Objects and Associative Arrays/02. Score to HTML.js" />
+    <entry file="file://$PROJECT_DIR$/08. Lab Strings and Regular Expressions/14. Parse the Employee Data.js" />
+    <entry file="file://$PROJECT_DIR$/08. Lab Strings and Regular Expressions/13. Match the Dates.js" />
+    <entry file="file://$PROJECT_DIR$/08. Lab Strings and Regular Expressions/10. Match All Words.js" />
+    <entry file="file://$PROJECT_DIR$/08. Lab Strings and Regular Expressions/08. Censorship.js" />
+    <entry file="file://$PROJECT_DIR$/JS Fundamentals Exam - 10 June 2018/4.Travel Time.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="29" column="24" lean-forward="false" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Fundamentals Exam - 10 June 2018/1.Travel Plans.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/ide/ide-scripting.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02.Control-FlowLogic/2. Boxes and Bottles.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02.Control-FlowLogic/4. Circle Area.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02.Control-FlowLogic/8. Fruit or Vegetable.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02.Control-FlowLogic/9. Colorful Numbers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02.Control-FlowLogic/10. Chessboard.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="26" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02.Control-FlowLogic/11. Binary Logarithm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="43" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02.Control-FlowLogic/12. Prime Number Checker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="22" lean-forward="false" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03. DataTypes Expressions Statements/1. Hello JS.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03. DataTypes Expressions Statements/02. Area and Perimeter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="33" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03. DataTypes Expressions Statements/03. Distance over Time.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03. DataTypes Expressions Statements/04. Distance in 3D.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03. DataTypes Expressions Statements/05. Grads to Radians.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02.Control-FlowLogic/7. Odd  Even.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02.Control-FlowLogic/6. Cone.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02.Control-FlowLogic/5. Triangle Area.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02.Control-FlowLogic/3. Leap Year.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01.IntrotoJavaScript/1. Sum 3 Numbers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01.IntrotoJavaScript/2. Calculate Sum and VAT.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01.IntrotoJavaScript/3. Letter Occurences In String.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01.IntrotoJavaScript/4. Filter By Age.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01.IntrotoJavaScript/5. String of Numbers 1..N.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01.IntrotoJavaScript/6. Figure Area.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01.IntrotoJavaScript/7. Next Day.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="12" lean-forward="false" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01.IntrotoJavaScript/8. Distance between Points.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02.Control-FlowLogic/1. Multiply Numbers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="27" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03. DataTypes Expressions Statements/06. Compound Interest.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03. DataTypes Expressions Statements/07. Rounding.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03. DataTypes Expressions Statements/08. Imperial Units.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03. DataTypes Expressions Statements/09. Now Playing.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="58" lean-forward="false" selection-start-line="1" selection-start-column="58" selection-end-line="1" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03. DataTypes Expressions Statements/10. Compose Tag.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03. DataTypes Expressions Statements/11. Binary to Decimal.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03. DataTypes Expressions Statements/12. Assign Properties.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="1" lean-forward="false" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03. DataTypes Expressions Statements/13. Last Month.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="1" lean-forward="false" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03. DataTypes Expressions Statements/14. Biggest of 3 Numbers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="1" lean-forward="false" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03. DataTypes Expressions Statements/15. Point in Rectangle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" column="1" lean-forward="false" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03. DataTypes Expressions Statements/16. Odd Numbers 1 to N.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="1" lean-forward="false" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03. DataTypes Expressions Statements/17. Triangle of Dollars.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="1" lean-forward="false" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03. DataTypes Expressions Statements/18. Movie Prices.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="556">
+          <caret line="84" column="1" lean-forward="false" selection-start-line="84" selection-start-column="1" selection-end-line="84" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03. DataTypes Expressions Statements/19. Quadratic Equation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="1" lean-forward="false" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03. DataTypes Expressions Statements/20. Multiplication Table.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="21" column="1" lean-forward="false" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03. DataTypes Expressions Statements/21. Figure of 4 Squares.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03. DataTypes Expressions Statements/22. Monthly Calendar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="4" lean-forward="false" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

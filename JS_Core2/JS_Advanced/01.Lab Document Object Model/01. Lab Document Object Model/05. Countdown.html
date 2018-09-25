@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Countdown</title>
+</head>
+<input type="text" id="time" style="border:3px solid blue; text-align:center; font-size:2em;" disabled="true"/>
+<script>window.onload = function() {
+    countdown(600);
+}
+function countdown(starTime) {
+        let box = document.getElementById('time');
+        let intervalID = setInterval(decrement, 1000);
+        function decrement() {
+            starTime--;
+            box.value = Math.trunc(starTime / 60) + ':' + ("0" + (starTime % 60)).slice(-2);
+        }
+}
+</script>
+
+</body>
+</html>
