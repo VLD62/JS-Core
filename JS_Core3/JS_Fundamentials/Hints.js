@@ -24,3 +24,45 @@ current = processing(current,lap, target,"Lap");
 current = processing(current,grind, target,"Grind");
 current = processing(current,etch, target,"Etch");
 current = xRay(current)[0];
+
+//IIFE
+(() => {
+    console.log((string.localeCompare(string.split("").reverse().join("")) === 0) ? "true" : "false")
+})();
+
+//Iterator
+for…in to iterate over the index values of  array:
+    for(var i in arr) {
+        console.log("Property: " + i);
+        console.log("Value: " + arr[i]);
+    }
+for…of to iterate over the values in array:
+
+for (let animal of animals) {
+  // Random name for our animal
+    console.log(`${animal}`);
+}
+
+forEach - takes parameter as function:
+dogs.forEach((item , index) => {
+	console.log(item);
+	console.log(index);
+	});
+
+////Splice vs Slice
+
+The splice() method returns the removed item(s) in an array and slice() method returns the selected element(s) in an array, as a new array object.
+
+The splice() method changes the original array and slice() method doesn’t change the original array.
+
+The splice() method can take n number of arguments and slice() method takes 2 arguments.
+
+//Element by index step
+function printNthElementArray(arr) {
+    let step = arr.pop();
+    arr.filter(function (el, index, arr) {
+        if (index % step == 0) {
+            console.log(el);
+        }
+    });
+}
