@@ -9,4 +9,4 @@ function sameNumber(n) {
     }
     console.log(arraySum);
 }
-(sameNumber(5545);
+sameNumber(5545);
