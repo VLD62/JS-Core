@@ -1,0 +1,18 @@
+  <ul id="items">
+    <li>first item</li>
+    <li>second item</li>
+    <li>third item</li>
+  </ul>
+  <textarea id="result"></textarea>
+  <br>
+  <button onclick="extractText()">Extract Text</button>
+  <script>
+    function extractText() {
+        var array = Array.from(document.getElementById("items").children);
+        for (item of array ) {
+            var textnode = document.createTextNode(item.textContent+"\n");   
+            document.getElementById("result").appendChild(textnode);
+        }
+     }
+  </script>
+  

@@ -1,0 +1,29 @@
+<html>
+    <head></head>
+    <body>
+            <table id="Table1">
+                    <tbody>
+                      <tr><th>Product</th><th>Cost</th></tr>
+                      <tr><td>Beer</td>   <td>2.88</td></tr>
+                      <tr><td>Fries</td>  <td>2.15</td></tr>
+                      <tr><td>Burger</td> <td>4.59</td></tr>
+                      <tr><td>Total:</td> <td id="sum"></td></tr>
+                    </tbody>
+            </table>
+            <button onclick="sum()">Sum</button>
+            <script>
+            function sum () {
+                let regex = new RegExp(/\d*\.?\d+/, "g");
+                let table = document.getElementById("Table1");   
+                let rows = Array.from(document.getElementsByTagName("tr")); 
+                let totalSum = 0;  
+                rows.forEach((row,index) => {
+                        if (index != 0 && index != rows.length - 1 ) {
+                                totalSum += +row.textContent.match(regex);
+                        }
+                });
+                document.getElementById('sum').innerHTML = totalSum;
+            }
+            </script>
+    </body>
+</html>

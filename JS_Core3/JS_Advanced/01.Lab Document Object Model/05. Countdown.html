@@ -1,0 +1,13 @@
+<input type="text" id="time" style="border:3px solid blue; text-align:center; font-size:2em;" disabled="false"/>
+<script>
+function countdown(seconds) {
+        let timeBox = document.getElementById("time");
+        setInterval(function(seconds) {
+            seconds--;
+            timeBox.value = Math.trunc(seconds / 60) + ':' + ("0" + (seconds % 60)).slice(-2);;
+        }, 1000)
+
+    }
+
+window.onload = countdown(600);
+</script>
