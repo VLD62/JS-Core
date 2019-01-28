@@ -5,7 +5,6 @@ function solve() {
     (document.getElementById('output')).appendChild(p);
   }
   let sentences = document.getElementById('input').textContent.match(/[^\.!\?]+[\.!\?]+/g);
- 
   if (sentences.length <= 3) {
     pAppneder(sentences.join(" "));
   } else {
@@ -15,13 +14,13 @@ function solve() {
       sentence += " " + sentences[i];
       counter++;
       if (counter == 3) {
-          pAppneder(sentence);
-          sentence = "";
-          counter = 0;
+        pAppneder(sentence);
+        sentence = "";
+        counter = 0;
       }
       if (((sentences.length + 1) - i) == 2) {
-         pAppneder(sentences.slice(i,sentences.length).join(" "));
-         break;
+        pAppneder(sentences.slice(i, sentences.length).join(" "));
+        break;
       }
     }
   }
