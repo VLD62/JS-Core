@@ -56,6 +56,12 @@ function validate() {
         return reminder;
     }
     document.getElementsByTagName('button')[0].addEventListener('click', function () {
+        if (+document.getElementById("year").value < 1900  || +document.getElementById("year").value > 2100) {
+            return;
+        }
+        if (+document.getElementById("region").value < 43  || +document.getElementById("region").value > 999) {
+            return;
+        }
         let year = document.getElementById("year").value.slice(-2);
         let month = getMonth(document.getElementById("month").value);
         let date = zeroAdder(document.getElementById("date").value,2);
