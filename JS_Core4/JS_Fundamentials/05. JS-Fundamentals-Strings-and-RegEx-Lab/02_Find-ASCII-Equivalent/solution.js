@@ -11,10 +11,6 @@ function solve() {
     let pattern = /^\d+$/;
     return pattern.test(str);  
   }
-
-  //str = str.map(ascii = a => a.charCodeAt(0));
-  let result = "";
-
   str.forEach((element) => {
     if(isNumber(element)) {
       numArray.push(element);
@@ -22,8 +18,16 @@ function solve() {
       wordArray.push(element);
     }
   }); 
-
-  pAppneder(String.fromCharCode(numArray.join(",")));
-  pAppneder(numArray.map(char => char.charCodeAt(0)).reduce((current, previous) => previous + current));
-
+  let res = "";
+  for (element of numArray) {
+    res += String.fromCharCode(element)
+  }
+  for (element of wordArray) {
+    let word= "";
+    for (var i = 0; i < element.length; i++) {
+      word += (element.charCodeAt(i)) +" ";
+    }
+    pAppneder(word.substring(0, word.length-1));
+  }
+  pAppneder(res);
 }
