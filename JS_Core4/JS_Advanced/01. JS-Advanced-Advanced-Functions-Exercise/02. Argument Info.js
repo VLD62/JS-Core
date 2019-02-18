@@ -9,15 +9,15 @@ function argumentInfo() {
         } else {
             summary[type]++;
         }
-
         console.log(type + ': ' + obj);
         
     }
     for (let count in summary) {
         total.push([count,summary[count]]);
     }
-    for (let element of total) {
-        console.log(element)
+    for (let element of total.sort((a,b) => b[1] - a[1])) {
+        console.log(element.join(" = "));
     }
 }
-argumentInfo('cat', 42, 'cat', function () { console.log('Hello world!'); });
+argumentInfo(32,23,'cat', 42, 'cat', function () { console.log('Hello world!'); });
+//argumentInfo({ name: 'bob'}, 3.333, 9.999);
