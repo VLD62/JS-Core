@@ -1,31 +1,44 @@
-function solve(name, age, weight, height ) {
-    function calcBMI(weight,height) {
-        let bmi = Math.round(weight/Math.pow((height*0.01),2));
-        if (bmi < 18.5) {
-            return [bmi,"underweight"];
-        } else if (bmi >= 18.5 && bmi < 25) {
-            return [bmi,"normal"];
-        } else if (bmi >= 25 && bmi < 30) {
-            return [bmi,"overweight"];
-        } else {
-            return [bmi,"obese"];
-        }
-    }
-    let personDetails = {
-        name: name,
-        personalInfo: {
-            age: age,
-            weight: weight,
-            height: height
-          }
-        ,
-        BMI: calcBMI(weight,height)[0],
-        status: calcBMI(weight,height)[1],
-    };
-    if (personDetails.status == "obese" ) {
-        personDetails['recommendation'] = 'admission required';
-    }
-
-    return personDetails;
+let solution = {
+            add: (vec1, vec2) => {
+                return [(vec1[0] + vec2[0]), (vec1[1] + vec2[1])];
+            },
+            multiply: (vec1, n) => {
+                return [vec1[0]*n,vec1[1]*n];
+            },
+            length: (vec1) => {
+                return Math.sqrt(Math.pow(vec1[0],2) + Math.pow(vec1[1],2));
+            },
+            dot: (vec1,vec2) => {
+                return vec1[0]*vec2[0] + vec1[1]*vec2[1];
+            },
+            cross: (vec1,vec2) => {
+                return vec1[0]*vec2[1] - vec2[0]*vec1[1];
+            }
+            
 }
-console.log(solve('Honey Boo Boo', 9, 57, 137))
+
+console.log(solution.add([1, 1], [1, 0]));
+console.log(solution.multiply([3.5, -2], 2));
+console.log(solution.length([3, -4]));
+console.log(solution.dot([2, 3], [2, -1]));
+console.log(solution.cross([3, 7], [1, 0]));
+(function () {
+    return {
+        add: (vec1, vec2) => {
+            return [(vec1[0] + vec2[0]), (vec1[1] + vec2[1])]
+        },
+        multiply: (vec1, vec2) => {
+            return [vec1[0]*vec2,vec1[1]*vec2]
+        },
+        length: (vec1) => {
+            return Math.sqrt(Math.pow(vec1[0],2) + Math.pow(vec1[1],2))
+        },
+        dot: (vec1,vec2) => {
+            return vec1[0]*vec1[1] + vec2[0]*vec2[1];
+        },
+        cross: (vec1,vec2) => {
+            return vec1[0]*vec2[1] - vec2[0]*vec1[1];
+        }
+
+    }
+}())
